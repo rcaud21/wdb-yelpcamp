@@ -1,0 +1,27 @@
+{
+  "name": "wdb-yelpcamp",
+  "version": "1.0.0",
+  "description": "Application to track and review campgrounds; created as part of Colt Steele's Web Developer Bootcamp on Udemy",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "ejs-mate": "^3.0.0",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.11.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcaud21/wdb-yelpcamp.git"
+  },
+  "author": "Ryan Caudill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcaud21/wdb-yelpcamp/issues"
+  },
+  "homepage": "https://github.com/rcaud21/wdb-yelpcamp#readme"
+}
